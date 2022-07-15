@@ -1,1 +1,2 @@
-# PROv1-C27_ActiAlu2.5_Angry
+# angryBirdsEtapa2
+Angry Birds etapa 2 con Herencia de Clase e Imágenes
